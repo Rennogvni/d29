@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    font-family: "Lucida Grande";
+    font-family: 'Ubuntu', sans-serif;
   }
   
   a {
@@ -160,7 +160,7 @@ body {
     display: inline-block;
     margin-top: 20px;
     font-size: 15px;
-    color: #b3aeb5;
+    color: rgb(3, 85, 7)
   }
   
   .heading h3 {
@@ -172,12 +172,16 @@ body {
     padding-bottom: 80px;
     text-align: center;
   }
+  .email-form {
+    width: 60%;
+    height: 25px
+  }
   
   .message {
     padding: 15px 40px;
-    background-color: #5dca88;
+    background-color: #ee0b0b;
     cursor: pointer;
-    box-shadow: 0 7px #1a7940;
+    box-shadow: 0 7px #580404;
   }
   
   .message:active {
@@ -187,14 +191,18 @@ body {
   }
   
   footer img {
-    width: 125px;
+    width: 10px;
   }
   
   footer p {
-    color: #b3aeb5;
+    color:rgba(3, 85, 7)
     font-size: 12px;
   }
   
-  footer {
+  .footer-left {
     padding-top: 30px;
+    color: rgba(3, 85, 7);
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
   }
