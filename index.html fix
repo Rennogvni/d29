@@ -39,7 +39,7 @@
     <div class="lesson-wrapper">
       <div class="container">
         <div class="heading">
-          <h2>Cari tau dari mana Anda mau memulai!</h2>
+          <h2>Sikat barang - barang yang kamu suka disini bos ! jangan sampai ketinggalan !</h2>
         </div>
         <div class="lessons">
           <div class="lesson">
@@ -47,28 +47,28 @@
               <img src="file:///C:/Users/lenovo/Downloads/undraw_Successful_purchase_re_mpig.svg" width="200px" height="200px">
                <p>Shopping</p>
             </div>
-            <p class="txt-contents">Bahasa yang digunakan untuk membuat dan mendesain tampilan situs web Anda. </p>
+            <p class="txt-contents">Belanja pakaian dari harga termurah hanya ada disini, gunakan fitur ini sekarang juga !</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="file:///C:/Users/lenovo/Downloads/undraw_empty_cart_co35%20(2).svg" width="200px" height="200px">
               <p>Grocery</p>
             </div>
-            <p class="txt-contents">Library JavaScript yang cepat, kaya akan fitur, dan mudah digunakan yang menangani animasi dan permintaan Ajax.</p>
+            <p class="txt-contents">Barang peralatan rumah tangga juga bisa di dapatkan di sini, mulai dari peralatan bangunan sampai peralatan dapur !</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="file:///C:/Users/lenovo/Downloads/undraw_gone_shopping_vwmc.svg" width="200px" height="200px">
               <p>Food</p>
             </div>
-            <p class="txt-contents">Bahasa dinamis, serba guna yang sederhana dan produktif. Ruby sering digunakan untuk membuat aplikasi web yang responsive.</p>
+            <p class="txt-contents">Voucher makanan bisa kamu dapatkan juga disini, dengan cara login ke email facebook atau twitter mu dan tukarkan coin nya !</p>
           </div>
           <div class="lesson">
             <div class="lesson-icon">
               <img src="file:///C:/Users/lenovo/Downloads/undraw_deliveries_131a.svg" width="200px" height="200px">
               <p>Electronic Parts</p>
             </div>
-            <p class="txt-contents">Bahasa skrip open source yang dapat disematkan ke dalam HTML, dan cocok untuk pengembangan web.</p>
+            <p class="txt-contents">Peralatan elektronik bisa juga di sikat disini, dari mulai TV, mesin cuci, playstation dan juga furniture lainnya !</p>
           </div>
         </div>
       </div>
@@ -76,16 +76,19 @@
     <div class="message-wrapper">
       <div class="container">
         <div class="heading">
-          <h2>Apakah Anda siap untuk menjadi programer yang handal?</h2>
-          <h3>Ayo belajar coding, ayo belajar menjadi lebih kreatif!</h3>
+          <h2>Siap untuk borong barang sepuasnya ?</h2>
+          <h3>Masukan email anda ke kolom di bawah ini</h3>
+          <input class="email-form" type="email">
         </div>
-        <span class="btn message">Mulai Belajar</span>
+        <span class="btn message">Gabung!</span>
       </div>
     </div>
     <footer>
       <div class="container">
-        <img src="https://prog-8.com/images/html/advanced/footer_logo.png">
-        <p>Learn to code, learn to be creative.</p>
+        <div class="footer-left">
+          <img class="header-logo">Marketplace D29
+          <p>Saatnya berbelanja sepuasnya</p>
+        </div>
       </div>
     </footer>
   </body>
